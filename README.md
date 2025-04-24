@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Yoge Lee</h1>
-<p align="center">🌱 I am a full-stack developer passionate about technology and creativity.</p>
+<p align="center">🌱 I am a software engineer & full-stack developer passionate about technology and creativity.</p>
 
 ---
 
